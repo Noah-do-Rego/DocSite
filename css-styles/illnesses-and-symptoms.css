@@ -2,7 +2,7 @@ body {
   background-color: Azure;
   color:DimGray;
   font-family: "Tahoma", Geneva, sans-serif;
-  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ39823NY5PfEyvM1IRivA8ImWbK6RW_umqzQ&usqp=CAU');
+  background-image: url('https://img.freepik.com/free-vector/abstract-paper-hexagon-white-background_51543-7.jpg?size=626&ext=jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -13,7 +13,7 @@ h1 {
   padding: 30px;
 }
 .button {
-  background-color:Red;
+  background-color:IndianRed;
   border: none;
   color: white;
   padding: 15px 40px;
@@ -27,4 +27,8 @@ h1 {
 .button:hover {
   background-color:White;
   color: black;
+}
+#logo {
+  padding-top: 15px;
+  display: hidden;
 }
