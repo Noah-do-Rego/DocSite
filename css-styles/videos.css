@@ -1,8 +1,10 @@
 body {
   font-family: "Tahoma", Geneva, sans-serif;
   background-color: Azure;
+  color:DimGray;
 }
 h1 {
   background-color: LightSlateGrey;
+  color:WhiteSmoke;
   padding: 30px;
 }
