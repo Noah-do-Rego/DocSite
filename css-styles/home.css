@@ -1,12 +1,13 @@
 
 body {
   background-color: Azure;
-  color:WhiteSmoke;
+  color:DimGray;
   font-family: "Tahoma", Geneva, sans-serif;
   background-image: url('https://reuter.on.ca/wp-content/uploads/2015/09/white-seamless-background-free-vector-145.jpg');
 }
 h1 {
   background-color: LightSlateGrey;
+  color:WhiteSmoke;
   padding: 30px;
 }
 img {
