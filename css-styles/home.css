@@ -33,3 +33,9 @@ h1 {
   padding-top: 15px;
   display: hidden;
 }
+#timeline {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
